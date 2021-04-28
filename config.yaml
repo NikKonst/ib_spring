@@ -1,4 +1,4 @@
 genome: hg38
 conda_env: environment.yml
 tmp_dir: tmp/
-data_info: workflow/replication_origins_data_test.csv
+data_info: workflow/replication_origins_data.csv
